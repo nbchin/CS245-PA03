@@ -189,7 +189,7 @@ public class SortTiming {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		
+
 		SortTiming timing = new SortTiming();
 		int [] sizes = {50000, 100000, 150000, 200000, 250000, 300000, 350000, 400000, 450000, 500000};
 		
